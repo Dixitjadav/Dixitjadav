@@ -4,7 +4,7 @@
 👋, I'm Dixit Jadav</h1>
 <h3 align="center">A passionate student from India.</h3>
 
-- 🌱 I’m currently learning *HTML, CSS, JavaScript, Java*
+- 🌱 I’m currently learning *Python and JavaScript*
 
 - 📫 How to reach me **dixitjadav02@gmail.com **
 
